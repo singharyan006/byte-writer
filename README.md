@@ -26,9 +26,18 @@ ByteWriter starts as a simple yet functional text editor allowing users to creat
 ## Getting Started
 
 1. Clone the repository
-2. Follow setup instructions for your chosen technology stack
-3. Begin by implementing the core editor modules
-4. Gradually add advanced features as you master the basics
+2. The current code lies in inspiration folder
+3. Get a wsl in your system.
+4. In the wsl navigate to this repo
+5. then type 
+```bash 
+make 
+```
+6. an kilo executable would be created and then type back
+```bash
+./kilo
+```
+7. Enjoy the repo baby....
 
 ## Contribution
 
